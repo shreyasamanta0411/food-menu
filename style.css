@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#nav {
+    position: fixed;
+    background-color: rgba(83, 82, 82, 0.7);
+    padding: 8px;
+    width: 100%;
+}
+
+#u li a {
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+
+.navb {
+    background-image: url('f11.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    opacity: 0.8;
+}
+
+.hd {
+    text-decoration: underline;
+    text-align: center;
+}
+
+#ab1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.btn {
+    margin-bottom: 2%;
+}
+
+.p {
+    padding: 2%;
+    font-size: 18px;
+    text-align: justify;
+    word-spacing: 8px;
+    line-height: 2.0;
+    color: black;
+    font-weight: 700;
+}
+
+.im {
+    height: 300px;
+}
+
+#h {
+    margin-top: 12%;
+    text-decoration: underline;
+    font-weight: 900;
+    word-spacing: 10px;
+    color: black;
+}
+
+.sc2 {
+    display: none;
+}
+
+#ab2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.b {
+    margin: 8px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.c {
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+#cr {
+    margin-top: 2%;
+}
+
+#sc3 {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.si {
+    height: 500px;
+}
+
+#veg,
+#nveg {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 2%;
+}
+
+.m {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.conv,
+.connv {
+    float: right;
+    margin-top: 6%;
+}
+
+#thali {
+    margin-bottom: 3%;
+}
+
+.thcon {
+    display: flex;
+    justify-content: center;
+}
+
+.bg {
+    padding: 2%;
+    background-color: lightgrey;
+}
+
+.ph {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.ph a {
+    color: white;
+    font-size: 20px;
+}
+
+
+/* #bt {
+     background-color: red;
+} */
+
+
+}
+*/
